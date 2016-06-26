@@ -1,5 +1,9 @@
-# CSS Autocomplete package
-[![OS X Build Status](https://travis-ci.org/atom/autocomplete-css.svg?branch=master)](https://travis-ci.org/atom/autocomplete-css) [![Windows Build Status](https://ci.appveyor.com/api/projects/status/k3e5uvpmpc5bkja9/branch/master?svg=true)](https://ci.appveyor.com/project/Atom/autocomplete-css/branch/master) [![Dependency Status](https://david-dm.org/atom/autocomplete-css.svg)](https://david-dm.org/atom/autocomplete-css)
+# CSJS Autocomplete package
+
+CSJS: https://github.com/rtsao/csjs
+Language CSJS for Atom: https://github.com/neurosnap/language-csjs
+
+# About
 
 CSS property name and value autocompletions in Atom. Uses the
 [autocomplete-plus](https://github.com/atom-community/autocomplete-plus) package.
