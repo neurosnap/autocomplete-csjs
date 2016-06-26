@@ -1,6 +1,6 @@
 {
   "name": "autocomplete-csjs",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "CSS property name and value autocompletions for CSJS",
   "main": "./lib/main",
   "license": "MIT",
