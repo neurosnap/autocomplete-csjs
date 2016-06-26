@@ -9,8 +9,8 @@ importantPrefixPattern = /(![a-z]+)$/
 cssDocsURL = "https://developer.mozilla.org/en-US/docs/Web/CSS"
 
 module.exports =
-  selector: '.source.css, .source.sass'
-  disableForSelector: '.source.css .comment, .source.css .string, .source.sass .comment, .source.sass .string'
+  selector: '.source.csjs.js'
+  disableForSelector: '.source.csjs.js .comment, .source.csjs.js .string'
 
   # Tell autocomplete to fuzzy filter the results of getSuggestions(). We are
   # still filtering by the first character of the prefix in this provider for

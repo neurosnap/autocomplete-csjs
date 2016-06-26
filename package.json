@@ -1,10 +1,10 @@
 {
-  "name": "autocomplete-css",
-  "version": "0.11.2",
-  "description": "CSS property name and value autocompletions",
+  "name": "autocomplete-csjs",
+  "version": "0.0.1",
+  "description": "CSS property name and value autocompletions for CSJS",
   "main": "./lib/main",
   "license": "MIT",
-  "repository": "https://github.com/atom/autocomplete-css",
+  "repository": "https://github.com/neurosnap/autocomplete-csjs",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
