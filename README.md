@@ -1,6 +1,7 @@
 # CSJS Autocomplete package
 
 CSJS: https://github.com/rtsao/csjs
+
 Language CSJS for Atom: https://github.com/neurosnap/language-csjs
 
 # About
